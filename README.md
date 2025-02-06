@@ -23,7 +23,7 @@ Project OBP is a Streamlit-based application designed to help manage and optimiz
     git clone https://github.com/kurkmeister/project_obp.git
     ```
     ```
-    cd project-obp
+    cd project_obp
     ```
 
 2. **Install the required packages**:
